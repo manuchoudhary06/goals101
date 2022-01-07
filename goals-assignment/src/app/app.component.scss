@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #e8780f;
+  color: #fff;
+  .navbar-brand {
+    color: #fff;
+  }
+}
+
+.sub-nav-bar {
+  text-align: center;
+  font-family: Roboto;
+  line-height: 22px;
+  padding: 10px;
+  .subNav {
+    font-size: 15px;
+    font-weight: bold;
+    color: #dc7c38;
+  }
+}
